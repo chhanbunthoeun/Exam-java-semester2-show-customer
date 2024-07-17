@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaConnection.iml" filepath="$PROJECT_DIR$/.idea/JavaConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaForm/JavaForm.iml" filepath="$PROJECT_DIR$/JavaForm/JavaForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connect_docker/connect_docker.iml" filepath="$PROJECT_DIR$/connect_docker/connect_docker.iml" />
+    </modules>
+  </component>
+</project>
